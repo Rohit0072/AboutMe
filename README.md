@@ -38,9 +38,9 @@ Welcome to my GitHub profile! I'm **Rohit Singh**, a passionate **Graphic Design
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [YourEmail@example.com](mailto:rs3274357.com)
-- **Portfolio**: [Your Portfolio Link](https://rohitswork.wuaze.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rohit-singh-b74377239)
+- **Email**: [Email](mailto:rs3274357.com)
+- **Portfolio**: [Portfolio](https://rohitswork.wuaze.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rohit-singh-b74377239)
 
 ---
 
